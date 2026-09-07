@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-labelledby="title desc">
+<title id="title">Ali Rizwan — AI Engineer</title><desc id="desc">Animated developer profile hero banner</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070B16"/><stop offset="1" stop-color="#101A2C"/></linearGradient>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#67E8F9"><animate attributeName="stop-color" values="#67E8F9;#A78BFA;#22D3EE;#67E8F9" dur="8s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#A78BFA"><animate attributeName="stop-color" values="#A78BFA;#22D3EE;#67E8F9;#A78BFA" dur="8s" repeatCount="indefinite"/></stop></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#1D2A44" stroke-width="1" opacity=".35"/></pattern>
+  <clipPath id="typeClip"><rect x="624" y="181" width="0" height="42"><animate attributeName="width" values="0;270;270;0" keyTimes="0;.45;.85;1" dur="5s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect width="1180" height="610" rx="28" fill="url(#bg)"/><rect width="1180" height="610" rx="28" fill="url(#grid)"/>
+<rect x="28" y="28" width="427" height="554" rx="22" fill="#090F1E" stroke="#22304B"/>
+<rect x="478" y="28" width="674" height="554" rx="22" fill="#0A1020" stroke="#22304B"/>
+<g transform="translate(56 74)"><text x="0" y="0" fill="#6B7892" font-family="monospace" font-size="15">~/portrait/ali.ascii</text>
+<g font-family="monospace" font-size="18" font-weight="700" fill="url(#g)" filter="url(#glow)"><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4s" repeatCount="indefinite"/>
+<text x="38" y="62">        ██████████</text><text x="38" y="87">     ███          ███</text><text x="38" y="112">   ██   ▄████████▄   ██</text><text x="38" y="137">  ██   █  ◉    ◉  █   ██</text><text x="38" y="162">  ██   █    ▄▄    █   ██</text><text x="38" y="187">   ██   ╲  ████  ╱   ██</text><text x="38" y="212">     ███ ╲______╱ ███</text><text x="38" y="237">        ██████████</text><text x="38" y="262">      ╱████████████╲</text><text x="38" y="287">    ╱████████████████╲</text></g>
+<g opacity=".12"><rect x="20" y="48" width="348" height="3" fill="#67E8F9"><animate attributeName="y" values="48;338;48" dur="3.5s" repeatCount="indefinite"/></rect></g>
+<text x="32" y="372" font-family="monospace" font-size="14" fill="#5EEAD4">● ONLINE</text><text x="32" y="402" font-family="monospace" font-size="13" fill="#73829E">building intelligent systems</text><text x="32" y="428" font-family="monospace" font-size="13" fill="#73829E">automation • agents • workflows</text></g>
+<g transform="translate(512 62)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"><circle cx="18" cy="0" r="6" fill="#FF5F57"/><circle cx="40" cy="0" r="6" fill="#FEBC2E"/><circle cx="62" cy="0" r="6" fill="#28C840"/><text x="555" y="5" fill="#596987" font-size="13">profile.sh</text>
+<text x="0" y="66" fill="#6F7F9B" font-size="16">$ whoami</text><text x="0" y="112" fill="#F8FAFC" font-size="30" font-weight="700">Hi 👋 I'm <tspan fill="url(#g)">Ali Rizwan</tspan></text>
+<text x="0" y="162" fill="#6F7F9B" font-size="16">$ role --current</text><g clip-path="url(#typeClip)"><text x="112" y="162" fill="url(#g)" font-size="22" font-weight="700">AI Engineer</text></g><rect x="238" y="143" width="10" height="23" rx="2" fill="#67E8F9"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<line x1="0" y1="194" x2="610" y2="194" stroke="#1D2A44"/>
+<text x="0" y="238" fill="#67E8F9" font-size="15">LOCATION</text><text x="160" y="238" fill="#D7E0EE" font-size="15">Islamabad, Pakistan</text>
+<text x="0" y="281" fill="#67E8F9" font-size="15">EDUCATION</text><text x="160" y="281" fill="#D7E0EE" font-size="15">Bachelors in Software Engineering</text>
+<text x="0" y="324" fill="#67E8F9" font-size="15">INTERESTS</text><text x="160" y="324" fill="#D7E0EE" font-size="15">AI • Agentic AI • Automations</text><text x="160" y="349" fill="#D7E0EE" font-size="15">Workflows • Intelligent Systems</text>
+<text x="0" y="398" fill="#67E8F9" font-size="15">PORTFOLIO</text><text x="160" y="398" fill="#D7E0EE" font-size="15">alirizwan.vercel.app</text>
+<text x="0" y="441" fill="#67E8F9" font-size="15">EMAIL</text><text x="160" y="441" fill="#D7E0EE" font-size="15">ali.devtorque@gmail.com</text>
+<text x="0" y="495" fill="#6F7F9B" font-size="14">$ status</text><text x="82" y="495" fill="#5EEAD4" font-size="14">ready to build what’s next_</text>
+</g>
+</svg>
