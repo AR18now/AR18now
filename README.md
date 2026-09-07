@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/dark.svg" width="100%" alt="Ali Rizwan — AI Engineer" />
+<img src="./assets/dark-v3.svg" width="100%" alt="Ali Rizwan — AI Engineer" />
 
 <br/>
 
